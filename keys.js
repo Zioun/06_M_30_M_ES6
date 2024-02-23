@@ -26,5 +26,5 @@ Object.seal(glass);
 glass.source = "Bangladesh";
 glass.price = 5000;
 delete glass.name;
-console.log(glass)
+console.log(glass);
 
